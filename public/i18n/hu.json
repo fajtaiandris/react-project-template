@@ -1,0 +1,12 @@
+{
+  "formatjs_intro": "A FormatJS internacionalizáló eszközzel lehetőséged van a UI-on megjelenő üzenetek fordítására és lokalizálására.",
+  "try": "Próbáld ki:",
+  "example_sentence": "Az égen {birdNum, plural, =0 {nem láttam madarakat} =1 {láttam egy madarat} other {láttam # madarat}}.",
+  "today": "Ma {today, date} van.",
+  "birds": "Madarak:",
+  "chosen_locale": "Locale",
+  "locale_usage": "Az elvárt locale kiválasztásához először a local storage-ben keresünk beállított felhasználói preferenciát. Ha ilyet nem találunk, akkor a böngészőben beállított nyelvet használjuk, feltéve, hogy ez egy támogatott locale. Abban az esetben ha ez sem sikeres, a locale angolra lesz állítva.",
+  "browser_language": "Böngésző:",
+  "local_storage": "Local storage:",
+  "bagel_price": "Ennek a bégelnek {num, number, ::sign-always compact-short currency/GBP} az ára."
+}

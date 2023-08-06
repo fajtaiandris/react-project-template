@@ -1,0 +1,12 @@
+{
+  "formatjs_intro": "With the internationalization tool, called FormatJS, you can translate and localize your messages on the UI.",
+  "try": "Try it out:",
+  "example_sentence": "I {birdNum, plural, =0 {did not see any birds} =1 {saw a bird} other {saw # birds}} in the sky.",
+  "today": "Today is {today, date}.",
+  "birds": "Birds:",
+  "chosen_locale": "Locale:",
+  "locale_usage": "To determine the expected locale, we first search for a user preference set in the local storage. If there isn't one we try to match the browser language settings to the supported locales. If all of the above fails, the locale is set to english by default.",
+  "browser_language": "Browser:",
+  "local_storage": "Local storage:",
+  "bagel_price": "The price of this bagel is {num, number, ::sign-always compact-short currency/GBP}."
+}
